@@ -1,0 +1,12 @@
+{
+   
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open exam1.html",
+            "file": "/Users/wendymazariegos/Documents/GitHub/cis-fa-exam-1-section-12225-Danmaza/exam1.html"
+        }
+    ]
+}
